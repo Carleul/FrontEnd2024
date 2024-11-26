@@ -1,0 +1,12 @@
+.adicionar {
+    border: black;
+    border-radius: 4px;
+    padding: 4px;
+    font-size: 16px;
+    background-color: rgb(32, 210, 16);
+    cursor: pointer;
+  }
+  
+  .adicionar:hover {
+    background-color: darkolivegreen;
+  }
